@@ -6,7 +6,7 @@
  * SITE: CEPROIRR.COM.BR
  */
 /* Testado no PHP7,8
-  Aula:03 Tipos de saídas no PHP
+  Aula:03 Comandos de saídas no PHP
  */
 
 $var_site = "Olá! Seja bem-vindo ao site Ceproirr.com.br.";
