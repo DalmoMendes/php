@@ -5,7 +5,7 @@
  * CURSO CRIADO POR DALMO SILVA MENDES
  * SITE: CEPROIRR.COM.BR
  */
-/*
+/* Testado no PHP7,8
   Aula:Os Quatro tipos escalares do PHP
 // Fonte: https://www.php.net/manual/pt_BR/language.types.intro.php
  */
