@@ -4,12 +4,12 @@ Desenvolvimento por Dalmo Silva Mendes. Material de ensino.
 <h2>Curso 1: PHP Básico</h2>
 <h2>Módulo 1: Conhecendo o PHP </h2>
 <ul>
-<i>Sintax do php, variáveis e saída.</i>
-<i>Declaração de Variáveis e saída.</i>
-<i>Comandos de saídas no PHP.</i>
-<i>Quatro tipos escalares do PHP.</i>
-<i>Exemplos com Arrays.</i>
-<i>Operadores Aritméticos: Simulando uma Calculadora.</i>
+<li>Sintax do php, variáveis e saída.</li>
+<li>Declaração de Variáveis e saída.</li>
+<li>Comandos de saídas no PHP.</li>
+<li>Quatro tipos escalares do PHP.</li>
+<li>Exemplos com Arrays.</li>
+<li>Operadores Aritméticos: Simulando uma Calculadora.</i>
 </ul>
 <h2>Módulo 2: Conexão com PDO</h2>
 <h2>Módulo 3: Crud Simples </h2>
