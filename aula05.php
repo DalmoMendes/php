@@ -5,7 +5,7 @@
  * CURSO CRIADO POR DALMO SILVA MENDES
  * SITE: CEPROIRR.COM.BR
  */
-/*
+/* Testado no PHP7,8
   Aula5: Arrays
  */
 /*
