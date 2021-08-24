@@ -3,7 +3,7 @@
 		Curso Web Developer PHP - Fullstack Macuxi
 		Professor: Dalmo Silva Mendes, Boa Vista-RR, 2021 */ ?>
 <?php
-// Aula 06: Operadores Aritméticos:
+// Aula 06: Operadores Aritméticos: Simulando uma Calculadora
 // https://www.php.net/manual/pt_BR/language.operators.arithmetic.php
 /* Testado no PHP7,8 - Podemos usar
 Exemplo:	Nome:	        Resultado:
