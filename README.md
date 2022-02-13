@@ -4,7 +4,7 @@ Desenvolvimento por Dalmo Silva Mendes. Material de ensino.
 <h2>Curso 1: PHP Básico</h2>
 <h2>Módulo 1: Conhecendo o PHP </h2>
 <ul>
-<li>Sintax do php, variáveis e saída.</li>
+<li>Sintaxe do php, variáveis e saída.</li>
 <li>Declaração de Variáveis e saída.</li>
 <li>Comandos de saídas no PHP.</li>
 <li>Tipos escalares do PHP.</li>
